@@ -24,5 +24,5 @@ function height(){
   // ft * 30.48
   var ft=document.getElementById("ft").value;
   var cm=ft * 30.48
-  document.getElementById("centimeter").valie=cm;
+  document.getElementById("centimeter").value=cm;
 }
